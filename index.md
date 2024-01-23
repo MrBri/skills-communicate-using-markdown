@@ -73,3 +73,8 @@ fn main() {
              mem::size_of_val(&unboxed_point));
 }
 ```
+
+- [ ] This is a first task
+- [ ] Automatically does a second
+- [ ] And a third, on Enter that is
+- [x] And one that's completed
